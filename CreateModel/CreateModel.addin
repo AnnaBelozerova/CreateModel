@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"D:\RevitAPITraining\CreateModel.dll"</Assembly>
+		<AddInId>3E3304F2-1D74-44AE-8E6F-0902A68AB48E</AddInId>
+		
+		<FullClassName>CreateModel.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Построение дома</Text>
+	</AddIn>
+</RevitAddIns>
